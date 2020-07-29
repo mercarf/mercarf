@@ -1,5 +1,5 @@
 # ¡Hola! Soy Mercedes, bienvenido a mi repo! 👋🙋‍♀️
-![octocatMercedes](./images/octocatMercedes.png)
+![octocatMercedes](https://github.com/mercarf/mercarf/blob/master/images/octocatMercedes.png)
 
 ### 🔭 Actualmente..
 
