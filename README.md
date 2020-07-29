@@ -1,4 +1,5 @@
 # ¡Hola! Soy Mercedes, bienvenido a mi repo! 👋🙋‍♀️
+![octocatMercedes](./images/octocatMercedes.png)
 
 ### 🔭 Actualmente..
 
