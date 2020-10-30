@@ -3,15 +3,21 @@
 
 ### 🔭 Actualmente..
 
-Estoy formándome para ser una desarrolladora Front-end.
+Soy una desarrolladora Front-end junior. Me encanta aprender cosas nuevas y seguir formandome en el campo de la programación.
+Recientemente terminé el programa de Adalab.
+Y actualmente estoy terminando un curso de diseño gráfico.
 
-### 📚 Aprendiendo..
-- HTML5
-- CSS3
-- React
-- JavaScript
-- Gulp
-- Git
+### 📚 Conocimientos..
+
+| Programación | Diseño |
+| :---:  | :---:  |
+| HTML5  | AutoCad  |
+| CSS3  | Indesign  |
+| React  | Illustrator  |
+| JavaScript  | Photoshop  |
+| Gulp  | 3DS MAX  |
+| Git  | Skecthup  |
+
 
 ### 📧 Contacto:
 
