@@ -23,6 +23,10 @@ Y actualmente estoy terminando un curso de diseño gráfico.
 
 Puedes contactar conmigo en mcarballalfr@gmail.com
 
+<a href="https://www.linkedin.com/in/mercedescarballal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+
+<a href="https://twitter.com/mercarfr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
+
 
 <!--
 **mercarf/mercarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
