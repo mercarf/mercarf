@@ -6,7 +6,9 @@
 
 Soy una desarrolladora Front-end junior. Me encanta aprender cosas nuevas y seguir formandome en el campo de la programación.
 Recientemente terminé el programa de Adalab.
-Y actualmente estoy terminando un curso de diseño gráfico.
+Y actualmente estoy terminando un curso programación de Samsung y otro de diseño gráfico.
+Tengo muchas ganas de seguir creciendo y seguir formándome.
+¿Me ayudas?
 
 ### 📚 Conocimientos..
 
