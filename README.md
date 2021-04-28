@@ -1,16 +1,19 @@
 # ¡Hola! Soy [Mercedes][website], bienvenido a mi repo! 👋🙋‍♀️
 
 
-### 🔭 Actualmente..
-[<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="400px">][website]
+### 🔭 Quién soy..
+[<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="300px">][website]
+[<img align="left" src="/images/mercarf-octocat.gif" width="300px">][website]
 
-Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formandome en el campo de la programación.
+Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
-Recientemente terminé el programa de Adalab.
-Y actualmente estoy terminando un curso programación de Samsung y otro de desarrollo web.
+Recientemente terminé el programa de **Adalab**.
+Y actualmente estoy terminando un **curso** programación de **Samsung** y otro de **desarrollo** web.
 
-Tengo muchas ganas de seguir creciendo y seguir formándome.
+Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo.
+
 ¿Me ayudas?
+<br>
 
 ### 📚 Conocimientos..
 
