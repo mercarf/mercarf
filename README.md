@@ -3,7 +3,6 @@
 
 ### 🔭 Quién soy..
 [<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="300px">][website]
-[<img align="left" src="/images/mercarf-octocat.gif" width="300px">][website]
 
 Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
