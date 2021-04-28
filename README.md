@@ -2,7 +2,7 @@
 
 
 ### 🔭 Quién soy..
-[<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="300px">][website]
+[<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="200px">][website]
 
 Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
@@ -12,6 +12,7 @@ Y actualmente estoy terminando un **curso** programación de **Samsung** y otro 
 Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo.
 
 ¿Me ayudas?
+<br>
 <br>
 
 ### 📚 Conocimientos..
