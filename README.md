@@ -32,7 +32,7 @@ Tengo muchas ganas de seguir creciendo y seguir formándome.
 
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><br>
 
 
 
@@ -50,7 +50,7 @@ Tengo muchas ganas de seguir creciendo y seguir formándome.
 
 <img align="left" alt="Skecthup" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/SketchUp-Logo.png" />
 
-<img align="left" alt="ArcGis" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/245px-ArcGIS_logo.png" />
+<img align="left" alt="ArcGis" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/245px-ArcGIS_logo.png" /><br>
 
 
 ##### Herramientas
