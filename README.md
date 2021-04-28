@@ -65,7 +65,7 @@ Tengo muchas ganas de seguir creciendo y seguir formándome.
 
 <img align="left" alt="Trello" width="35px" src="https://img.icons8.com/color/452/trello.png" />
 
-<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
+<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" /><br>
 
 
 ---
