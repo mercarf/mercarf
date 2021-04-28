@@ -1,8 +1,8 @@
 # ¡Hola! Soy [Mercedes][website], bienvenido a mi repo! 👋🙋‍♀️
 
-[<img src="https://github.com/mercarf/mercarf/blob/master/images/octocatMercedes.png" width="400px">][website]
 
 ### 🔭 Actualmente..
+[<img align="left" src="https://github.com/mercarf/mercarf/blob/master/images/mercarf-octocat.gif" width="400px">][website]
 
 Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formandome en el campo de la programación.
 
