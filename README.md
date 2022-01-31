@@ -6,8 +6,9 @@
 
 Soy una **desarrolladora Front-end junior**. Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.
 
-Recientemente terminé el programa de **Adalab**.
-Y actualmente estoy terminando un **curso** programación de **Samsung** y otro de **desarrollo** web.
+Actualmente estoy trabajando en INECO como programadora, aprendiendo no solo front sino tambien back
+
+He realizado el programa de **Adalab** y terminando un **curso** programación de **Samsung** y otro de **desarrollo** web.
 
 Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabajar en equipo y con grandes ganas de trabajar y seguir aprendiendo.
 
@@ -26,6 +27,8 @@ Soy una persona **resolutiva**, proactiva, alegre, motivada, habituada a trabaja
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" alt="Gulp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
 
